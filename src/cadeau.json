@@ -1,0 +1,34 @@
+{
+  "cadeau": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "lunettes de soleil",
+      "test": ["lunette", "avion"]
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Bracelet personnalisé ",
+      "test": ["bijoux", "ordinateur"]
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "Ordinateur",
+      "test": ["bijoux", "ordinateur"]
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "voiture de luxe",
+      "test": ["bijoux", "ordinateur"]
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "Billet d'avion",
+      "test": ["avion"]
+    }
+  ]
+}

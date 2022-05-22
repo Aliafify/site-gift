@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "La personne porte-t-elle des lunettes ?",
+      "bool": "TRUE",
+      "tag": "lunette"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "La personne porte-t-elle des bijoux ?",
+      "bool": "TRUE",
+      "tag": "bijoux"
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "La personne aime-t-elle l'informatique ?",
+      "bool": "TRUE",
+      "tag": "ordinateur"
+    },
+    {
+      "userId": 1,
+      "id": 15,
+      "title": "La personne aime-t-elle les voitures ?",
+      "bool": "TRUE",
+      "tag": "voiture"
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "La personne aime-t-elle voyager ?",
+      "bool": "TRUE",
+      "tag": "avion"
+    }
+  ]
+}
