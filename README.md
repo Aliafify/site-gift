@@ -1,8 +1,6 @@
- this project looks like a game you answer questions true or false then you get gifts according to your answers ,
- you can use this web app to mesure personality according to answers or for tests .
- change questions and answers according to the porpuse you need it .
- questions in db.json file in data directory.
- gifts in cadeau.json file in data directory.
+this project looks like a game you answer questions true or false then you get gifts according to your answers , you can use this web app to measure personality according to answers or for tests . change questions and answers according to the propose you need it . 
+questions in db.json file in data directory. 
+gifts in cadeau.json file in data directory.
 
 ## Available Scripts
 
