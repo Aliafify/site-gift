@@ -1,13 +1,20 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# this project looks like a game you answer questions true or false then you get gifts according to your answers ,
+## you can use this web app to mesure personality according to answers or for tests .
+## change questions and answers according to the porpuse you need it .
+## questions in db.json file in data directory.
+## gifts in cadeau.json file in data directory.
 
 ## Available Scripts
+
+Installing:
+## `npm install`
 
 In the project directory, you can run:
 
 ### `npm start`
-
+open directory `cd/src/data` and run :
+## `json-server --watch db.json --port 3004`
+##`json-server --watch cadeau.json --port 3005`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
